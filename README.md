@@ -1,6 +1,6 @@
 # Angular Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [@Bhushan-Jangle](https://www.instagram.com/bhu5hanpatil/) .
 
 ---
 <div align="center">
